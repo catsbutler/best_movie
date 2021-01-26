@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e1973ee.chunk.css",
-    "main.js": "/static/js/main.f070eb00.chunk.js",
-    "main.js.map": "/static/js/main.f070eb00.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab7df050.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab7df050.js.map",
-    "static/js/2.f06dcc36.chunk.js": "/static/js/2.f06dcc36.chunk.js",
-    "static/js/2.f06dcc36.chunk.js.map": "/static/js/2.f06dcc36.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.19c2c7791ee10b9a15722d6ca04ec097.js": "/precache-manifest.19c2c7791ee10b9a15722d6ca04ec097.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3e1973ee.chunk.css.map": "/static/css/main.3e1973ee.chunk.css.map",
-    "static/js/2.f06dcc36.chunk.js.LICENSE.txt": "/static/js/2.f06dcc36.chunk.js.LICENSE.txt",
-    "static/media/SignIn.css": "/static/media/potter.3407c728.jpg"
+    "main.css": "/catsbutler/best_movie.git/static/css/main.f25e170d.chunk.css",
+    "main.js": "/catsbutler/best_movie.git/static/js/main.f070eb00.chunk.js",
+    "main.js.map": "/catsbutler/best_movie.git/static/js/main.f070eb00.chunk.js.map",
+    "runtime-main.js": "/catsbutler/best_movie.git/static/js/runtime-main.a34a309c.js",
+    "runtime-main.js.map": "/catsbutler/best_movie.git/static/js/runtime-main.a34a309c.js.map",
+    "static/js/2.c31f2e21.chunk.js": "/catsbutler/best_movie.git/static/js/2.c31f2e21.chunk.js",
+    "static/js/2.c31f2e21.chunk.js.map": "/catsbutler/best_movie.git/static/js/2.c31f2e21.chunk.js.map",
+    "index.html": "/catsbutler/best_movie.git/index.html",
+    "precache-manifest.c74fa4bedb9f8d07d5c56a9af530f439.js": "/catsbutler/best_movie.git/precache-manifest.c74fa4bedb9f8d07d5c56a9af530f439.js",
+    "service-worker.js": "/catsbutler/best_movie.git/service-worker.js",
+    "static/css/main.f25e170d.chunk.css.map": "/catsbutler/best_movie.git/static/css/main.f25e170d.chunk.css.map",
+    "static/js/2.c31f2e21.chunk.js.LICENSE.txt": "/catsbutler/best_movie.git/static/js/2.c31f2e21.chunk.js.LICENSE.txt",
+    "static/media/SignIn.css": "/catsbutler/best_movie.git/static/media/potter.3407c728.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab7df050.js",
-    "static/js/2.f06dcc36.chunk.js",
-    "static/css/main.3e1973ee.chunk.css",
+    "static/js/runtime-main.a34a309c.js",
+    "static/js/2.c31f2e21.chunk.js",
+    "static/css/main.f25e170d.chunk.css",
     "static/js/main.f070eb00.chunk.js"
   ]
 }
