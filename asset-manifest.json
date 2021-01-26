@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/catsbutler/best_movie.git/static/css/main.f25e170d.chunk.css",
-    "main.js": "/catsbutler/best_movie.git/static/js/main.f070eb00.chunk.js",
-    "main.js.map": "/catsbutler/best_movie.git/static/js/main.f070eb00.chunk.js.map",
-    "runtime-main.js": "/catsbutler/best_movie.git/static/js/runtime-main.a34a309c.js",
-    "runtime-main.js.map": "/catsbutler/best_movie.git/static/js/runtime-main.a34a309c.js.map",
-    "static/js/2.c31f2e21.chunk.js": "/catsbutler/best_movie.git/static/js/2.c31f2e21.chunk.js",
-    "static/js/2.c31f2e21.chunk.js.map": "/catsbutler/best_movie.git/static/js/2.c31f2e21.chunk.js.map",
-    "index.html": "/catsbutler/best_movie.git/index.html",
-    "precache-manifest.c74fa4bedb9f8d07d5c56a9af530f439.js": "/catsbutler/best_movie.git/precache-manifest.c74fa4bedb9f8d07d5c56a9af530f439.js",
-    "service-worker.js": "/catsbutler/best_movie.git/service-worker.js",
-    "static/css/main.f25e170d.chunk.css.map": "/catsbutler/best_movie.git/static/css/main.f25e170d.chunk.css.map",
-    "static/js/2.c31f2e21.chunk.js.LICENSE.txt": "/catsbutler/best_movie.git/static/js/2.c31f2e21.chunk.js.LICENSE.txt",
-    "static/media/SignIn.css": "/catsbutler/best_movie.git/static/media/potter.3407c728.jpg"
+    "main.css": "/best_movie/static/css/main.3670047e.chunk.css",
+    "main.js": "/best_movie/static/js/main.f070eb00.chunk.js",
+    "main.js.map": "/best_movie/static/js/main.f070eb00.chunk.js.map",
+    "runtime-main.js": "/best_movie/static/js/runtime-main.4d7dbe6b.js",
+    "runtime-main.js.map": "/best_movie/static/js/runtime-main.4d7dbe6b.js.map",
+    "static/js/2.ff952b61.chunk.js": "/best_movie/static/js/2.ff952b61.chunk.js",
+    "static/js/2.ff952b61.chunk.js.map": "/best_movie/static/js/2.ff952b61.chunk.js.map",
+    "index.html": "/best_movie/index.html",
+    "precache-manifest.c4116f698e231cec61e78c211b9584a9.js": "/best_movie/precache-manifest.c4116f698e231cec61e78c211b9584a9.js",
+    "service-worker.js": "/best_movie/service-worker.js",
+    "static/css/main.3670047e.chunk.css.map": "/best_movie/static/css/main.3670047e.chunk.css.map",
+    "static/js/2.ff952b61.chunk.js.LICENSE.txt": "/best_movie/static/js/2.ff952b61.chunk.js.LICENSE.txt",
+    "static/media/SignIn.css": "/best_movie/static/media/potter.3407c728.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a34a309c.js",
-    "static/js/2.c31f2e21.chunk.js",
-    "static/css/main.f25e170d.chunk.css",
+    "static/js/runtime-main.4d7dbe6b.js",
+    "static/js/2.ff952b61.chunk.js",
+    "static/css/main.3670047e.chunk.css",
     "static/js/main.f070eb00.chunk.js"
   ]
 }
